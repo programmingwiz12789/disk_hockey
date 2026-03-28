@@ -1,2 +1,2 @@
-# disk_hockey
+# Disk Hockey
 Disk Hockey AI in VB.NET
